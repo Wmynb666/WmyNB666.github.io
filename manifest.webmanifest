@@ -1,0 +1,24 @@
+{
+  "name": "小鸡课表 · 我的手账",
+  "short_name": "小鸡课表",
+  "description": "奶油黄小鸡手账：课表、日常活动、省钱包、校园跑与日常出行，数据只存本机",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FFFDF5",
+  "theme_color": "#FFF6D8",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
